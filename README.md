@@ -4,12 +4,12 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-UNDETECTED-8B0000?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Version-v1.0--1.0.0.222-455A64?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Platform-Windows_10%2F11-8B0000?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Updates-Daily-FFA000?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Architecture-x64-9C27B0?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Locale-EN%2FZH-00BCD4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-UNDETECTED-8B0000?style=for-the-badge&labelColor=8B0000" />
+<img src="https://img.shields.io/badge/Version-v1.0--1.0.0.222-8B0000?style=for-the-badge&labelColor=8B0000" />
+<img src="https://img.shields.io/badge/Platform-Windows_10%2F11-8B0000?style=for-the-badge&labelColor=8B0000" />
+<img src="https://img.shields.io/badge/Updates-Daily-8B0000?style=for-the-badge&labelColor=8B0000" />
+<img src="https://img.shields.io/badge/Architecture-x64-8B0000?style=for-the-badge&labelColor=8B0000" />
+<img src="https://img.shields.io/badge/Locale-EN%2FZH-8B0000?style=for-the-badge&labelColor=8B0000" />
 
 </div>
 
@@ -238,8 +238,8 @@ Every setting can be saved, loaded, and shared.
 
 <br/>
 
-[![License](https://img.shields.io/badge/License-MIT-8B0000?style=flat-square&logo=github&labelColor=0D1117)](https://github.com)
+[![License](https://img.shields.io/badge/License-MIT-8B0000?style=flat-square&logo=github&labelColor=8B0000)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-UNDETECTED-8B0000?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.0.0-455A64?style=flat-square)](https://github.com)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-8B0000?style=flat-square)](https://github.com)
 
 </div>
